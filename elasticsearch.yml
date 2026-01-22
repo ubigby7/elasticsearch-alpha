@@ -87,4 +87,3 @@ http.port: 9200
 #
 #
 xpack.security.enabled: true
-xpack.security.transport.ssl.enabled: false
